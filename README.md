@@ -3,35 +3,35 @@
 Me chamo Gabriel Silva, tenho 22 anos, natural de Minas Gerais. Me formei em Sistemas de Informação pela UNIVAS no final de 2024 e tenho paixão pelo desenvolvimento de software.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-silva-pereira/"><img width="80px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/gabriel-silva-pereira/"><img width="100" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 💡**Tecnologias que uso:**
 #### Frontend:
-- React <img align="center" alt="Gabriel-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/> 
 
-- HTML5 <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>     
-
-- CSS3 <img align="center" alt="Gabriel-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>   
-
-- JavaScript <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
-- Tailwind CSS <img align="center" alt="Gabriel-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>   
+<p align="center">
+    <img align="center" alt="Gabriel-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="Gabriel-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+    <img align="center" alt="Gabriel-CSS3" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="Gabriel-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="Gabriel-Tailwind" height="30" width="100" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img align="center" alt="Gabriel-ReactNative" height="30" width="100" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 #### Backend:
-- Python <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-- Java <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-          
-
-- C# <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<p align="center">
+    <img align="center" alt="Gabriel-Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+    <img align="center" alt="Gabriel-React" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>   
+    <img align="center" alt="Gabriel-C#" height="30" width="100" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img align="center" alt="Gabriel-Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
 #### Ferramentas:
-- Insomnia <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/>
-
-- Docker <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-          
+<p align="center">
+    <img align="center" alt="Gabriel-Insomnia" height="30" width="100" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+    <img align="center" alt="Gabriel-Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 #### 📊 Estatisticas         
 <div align="center">
